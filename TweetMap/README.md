@@ -30,3 +30,5 @@ Deployment
 
 Deploy your application, the streaming script, the worker etc. on AWS.
 You are free to use Elastic beanstalk or manually configure EC2 for deploying different components of your application.
+
+![Alt Text](https://github.com/onodizoli/BigDataProject/raw/master/TweetMap/diagram.png)
